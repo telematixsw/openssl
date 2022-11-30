@@ -8,7 +8,7 @@
 
 [submodule "wycheproof"]
 	path = wycheproof
-	url = https://github.com/google/wycheproof
+	url = https://github.com/telematixsw/wycheproof
 
 [submodule "krb5"]
 	path = krb5
